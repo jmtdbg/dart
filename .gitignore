@@ -1,0 +1,8 @@
+//Ignora o arquivo especificado
+db.sqlite3
+//Ignora a pasta inteira inclusive os todos arquivos e subdiretórios.
+**DART_OO
+**DART_BASICO
+
+//Ignora todos os arquivos com a extensão especificada
+*.mp4
